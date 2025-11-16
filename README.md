@@ -427,6 +427,10 @@ private void action() {
 For a practical demo project on building Glyph Toys, see the [GlyphMatrix-Example-Project](https://github.com/KenFeng04/GlyphMatrix-Example-Project)<br>
 Kits for building a Glyph Interface experience around devices with a Glyph Light Stripe [Glyph-Developer-Kit](https://github.com/Nothing-Developer-Programme/Glyph-Developer-Kit)
 
+### Sample Glyph Toy: Live Football Scores
+
+The [Live Football Glyph Toy](LIVE_FOOTBALL_GLYPH_TOY.md) concept demonstrates how to surface real-time football scores, match clocks, and celebratory goal animations directly on the Glyph Matrix. It outlines polling cadence, layout choices, asset requirements, and a Java service skeleton to hook into a football data API and render live states with minimal battery impact.
+
 ## Support
 
 If you've found an error in this kit, please file an issue.
